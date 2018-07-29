@@ -15,3 +15,7 @@ app-root {
     left: 0;
     right: 0;
 }
+
+.flex-spacer {
+    flex-grow: 1
+}
